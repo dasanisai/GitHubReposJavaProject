@@ -4,7 +4,7 @@ public class Product {
 
 	private int prdId;
 	private String prdName;
-	private double prdCost;
+	private double prdCost; 
 	private String companyName="DMART";
 	public int getPrdId() {
 		return prdId;
